@@ -1,0 +1,64 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxyj86/epg/refs/heads/main/tvguide.xml"
+# Kayo Sports - ClearKey DRM for TiviMate
+# Generated: 2026-02-28T07:24:20.921Z
+
+#EXTINF:-1 tvg-id="fsa502" tvg-name="Fox League" tvg-chno="502" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa502.png" group-title="Kayo Sports",Fox League
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbd38a2f90fd4352b04633be4483daf6:0732eeb92d55dd328db0dbddd8cc9280
+https://fxtlgrp-live1-814bffb9b389f652.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/0a497b6d15f6456ca9004544ab855138/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=bad9b927-6878-48b3-85ed-660aefef7319
+
+#EXTINF:-1 tvg-id="fsa504" tvg-name="Fox Footy" tvg-chno="504" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa504.png" group-title="Kayo Sports",Fox Footy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61d535238eb54548b47f2d965377b207:32295e885025e124960ef54a9301f02c
+https://fxtlgrp-live1-761f422bb93edb7b.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/f7ab810530614ee8b7792747f17aee1e/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=b97cd8b2-8e98-4eaf-96f7-cf05d7952129
+
+#EXTINF:-1 tvg-id="fsa501" tvg-name="Fox Cricket" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa501.png" group-title="Kayo Sports",Fox Cricket
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=834c008ecc9149a7bded60ae38f2de80:fef4ec44930fa4d541a7d097cbffc497
+https://fxtlgrp-live1-761f422bb93edb7b.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/f928cba4908a4e8ba1c1851bea719e56/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=1cdc094c-3fb1-4eb9-90fb-e279ed048851
+
+#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN1" tvg-chno="509" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/espn1.png" group-title="Kayo Sports",ESPN1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68b55f2d9d514c98bf033ce08b1da115:c2ed8542e9dc54dd27dd2e1e804e305c
+https://fxtlgrp-live1-814bffb9b389f652.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/e84432ecf5264d4a959143f5488b035e/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=8ba763c0-5aee-478c-b9f3-d4f70edd5ced
+
+#EXTINF:-1 tvg-id="fsa503" tvg-name="Fox Sports 503" tvg-chno="503" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa503.png" group-title="Kayo Sports",Fox Sports 503
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93688d1b1fdb46c3a8c9031b3cafde8e:8bb5fcb3fde81682dbc0269fafd6f7de
+https://fxtlgrp-live1-761f422bb93edb7b.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/b26da62959bb42df8d2d6146e40e2207/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=d06b869d-f404-4d31-a10d-275db4fdc67e
+
+#EXTINF:-1 tvg-id="fsa505" tvg-name="Fox Sports 505" tvg-chno="505" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa505.png" group-title="Kayo Sports",Fox Sports 505
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce96da05bcbb406a8d15465389b5adda:bedbefae7c964b7e44f7d2d84de37a4f
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/9abaeff5164f4d5aadd4c4d59db377c9/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=3e054992-a4f5-4eb1-b547-02a768abbc54
+
+#EXTINF:-1 tvg-id="fsa506" tvg-name="Fox Sports 506" tvg-chno="506" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa506.png" group-title="Kayo Sports",Fox Sports 506
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19239f3984f4499a984901e120652a17:555b433f9713e75f8957a849fd915472
+https://fxtlgrp-live1-814bffb9b389f652.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/50bdd113e9424fbd9630452033d51673/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=42243075-4f09-4ff8-9f6b-dfb07f41d54e
+
+#EXTINF:-1 tvg-id="fsan" tvg-name="Fox Sports News" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsan.png" group-title="Kayo Sports",Fox Sports News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71b20ad2c2644846b5aef924c27d710a:619932514443e966cbda46aac6833ffc
+https://fxtlgrp-live1-761f422bb93edb7b.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/56567ffa8e61443d905af24d9c56240c/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=9e124850-726f-413f-8ae8-19311936de04
+
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-chno="510" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/espn2.png" group-title="Kayo Sports",ESPN2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a64e2614e7db494b87658952c6631907:9baeed967ee888c0724bc791e013f361
+https://fxtlgrp-live1-814bffb9b389f652.akamaized.net/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/b7602ff4c34745799cbff34dadd0809c/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=77bcaf72-9350-4b48-974d-3212cbe18b70
+
+#EXTINF:-1 tvg-id="fsa507" tvg-name="Fox Sports 507" tvg-chno="507" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa507.png" group-title="Kayo Sports",Fox Sports 507
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a424154fb2c94c3490312d7b5cf96680:814897f1562ebe472382f0e7ffffa87d
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-hevc-drm-session/out/v1/574fc7edb87645a9997a4ff9287f5a52/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=9786d74a-9a2c-41e3-a37c-fda3904a3bdd
+
