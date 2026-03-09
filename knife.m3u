@@ -11,12 +11,6 @@ https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/0a497b6d15f64
 #KODIPROP:inputstream.adaptive.license_key=61d535238eb54548b47f2d965377b207:32295e885025e124960ef54a9301f02c
 https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/f7ab810530614ee8b7792747f17aee1e/index.mpd
 
-#EXTINF:-1 tvg-id="fsa506" tvg-name="Fox Sports 506" tvg-chno="506" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa506.png" group-title="Kayo Sports",Fox Sports 506
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19239f3984f4499a984901e120652a17:555b433f9713e75f8957a849fd915472
-https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/50bdd113e9424fbd9630452033d51673/index.mpd
-
 #EXTINF:-1 tvg-id="fsa501" tvg-name="Fox Cricket" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa501.png" group-title="Kayo Sports",Fox Cricket
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,6 +34,12 @@ https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/b26da62959bb4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce96da05bcbb406a8d15465389b5adda:bedbefae7c964b7e44f7d2d84de37a4f
 https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/9abaeff5164f4d5aadd4c4d59db377c9/index.mpd
+
+#EXTINF:-1 tvg-id="fsa506" tvg-name="Fox Sports 506" tvg-chno="506" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsa506.png" group-title="Kayo Sports",Fox Sports 506
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19239f3984f4499a984901e120652a17:555b433f9713e75f8957a849fd915472
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/50bdd113e9424fbd9630452033d51673/index.mpd
 
 #EXTINF:-1 tvg-id="fsan" tvg-name="Fox Sports News" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/fsan.png" group-title="Kayo Sports",Fox Sports News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
